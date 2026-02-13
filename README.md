@@ -1,2 +1,5 @@
-# memek
-telegram.json
+{
+  "tokens": [
+    "8031230809:AAFDbhWu0cJZ1T_G_LwwE_ic4H37lLdY5IU"
+  ]
+}
